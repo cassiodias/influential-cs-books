@@ -99,11 +99,10 @@ So, the list is preserved here :)
 85. [Introduction to Functional Programming](http://www.cs.ox.ac.uk/publications/publication2613-abstract.html) by Richard Bird
 86. [No Bugs!](http://www.amazon.com/No-Bugs-Delivering-Error-Free/dp/0201608901) by David Thielen
 87. [JUnit in Action](http://www.manning.com/tahchiev/) by Petar Tahchiev
+88. [The Nature of Software Development](https://pragprog.com/book/rjnsd/the-nature-of-software-development) by Ron Jeffries 
 
 
-## Original thread
-
-What is the single most influential book every programmer should read?
+## What is the single most influential book every programmer should read?
 
 If you could go back in time and tell yourself to read a specific book at the beginning of your career as a developer, which book would it be?
 
