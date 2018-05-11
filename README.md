@@ -95,6 +95,7 @@ These are books considered most influential for programmers from this [StackOver
 87. [JUnit in Action](http://www.manning.com/tahchiev/) by Petar Tahchiev
 88. [The Nature of Software Development](https://pragprog.com/book/rjnsd/the-nature-of-software-development) by Ron Jeffries 
 89. [The Clean Coder](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073) by Uncle Bob
+90. [Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure-ebook/dp/B075LRM681) by Robert C. Martin
 
 
 ## What is the single most influential book every programmer should read?
