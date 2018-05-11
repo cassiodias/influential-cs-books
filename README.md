@@ -1,4 +1,4 @@
-# Most influential books for programmers
+# Influential books for programmers
 
 These are books considered most influential for programmers from this [StackOverflow thread](http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read).
 
