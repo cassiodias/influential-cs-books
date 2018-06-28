@@ -24,7 +24,7 @@ These are books considered most influential for programmers from this [StackOver
 16. [Programming Pearls](http://www.cs.bell-labs.com/cm/cs/pearls/) by Jon Bentley
 17. [Working Effectively with Legacy Code](http://www.informit.com/store/working-effectively-with-legacy-code-9780131177055?aid=15d186bd-1678-45e9-8ad3-fe53713e811b) by Michael C. Feathers
 18. [Peopleware](http://www.amazon.com/Peopleware-Productive-Projects-Second-Edition/dp/0932633439) by Demarco and Lister
-19. [Coders at Work](http://www.codersatwork.com/) by Peter Seibel
+19. [Coders at Work](https://www.amazon.co.uk/Coders-Work-Reflections-Craft-Programming/dp/1430219483/ref=sr_1_1?ie=UTF8&qid=1530181824&sr=8-1&keywords=Coders+at+Work%3A+Reflections+on+the+Craft+of+Programming) by Peter Seibel
 20. [Surely You're Joking, Mr. Feynman!](http://www.amazon.com/Surely-Feynman-Adventures-Curious-Character/dp/0393316041) by Richard Feynman
 21. [Effective Java 2nd edition](http://www.amazon.com/Effective-Java-Edition-Joshua-Bloch/dp/0321356683) by Joshua Bloch
 22. [Patterns of Enterprise Application Architecture](http://martinfowler.com/books/eaa.html) by Martin Fowler
