@@ -1,10 +1,8 @@
-# Influential books for programmers
+# Influential Books for Programmers
 
 These are books considered most influential for programmers from this [StackOverflow thread](http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read).
 
 ## Influential Books List
-
-![Plah](https://media.licdn.com/dms/image/C5616AQE508bYHq_dMA/profile-displaybackgroundimage-shrink_350_1400/0?e=1531353600&v=beta&t=3haKD6qFM5U2aYX4qaanNj9fcnD9EWnGf4oW44JYBQE)
 
 1. [Code Complete (2nd edition)](http://cc2e.com/) by Steve McConnell
 2. [The Pragmatic Programmer](http://pragprog.com/the-pragmatic-programmer) by Andrew Hunt and David Thomas
