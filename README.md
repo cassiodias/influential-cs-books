@@ -69,7 +69,7 @@ These are books considered most influential for programmers from this [StackOver
 63. [The Soul of a New Machine](http://www.tracykidder.com/books/soul/) by Tracy Kidder
 64. [CLR via C#](http://shop.oreilly.com/product/9780735627048.do) by Jeffrey Richter
 65. [Design Patterns in C#](http://www.amazon.com/Design-Patterns-C-Software/dp/0321718933) by Steve Metsker
-66. [Zen and the Art of Motorcycle Maintenance](http://www.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry/dp/0060589469) by Robert M. Pirsig
+66. 
 67. [About Face - The Essentials of Interaction Design](http://www.amazon.com/About-Face-Essentials-Interaction-Design/dp/0470084111) by Alan Cooper
 68. [Here Comes Everybody: The Power of Organizing Without Organizations](http://www.amazon.com/Here-Comes-Everybody-Organizing-Organizations/dp/0143114948) by Clay Shirky
 69. [The Tao of Programming](http://www.canonical.org/~kragen/tao-of-programming.html) by Geoffrey James (free ebook)
@@ -94,7 +94,6 @@ These are books considered most influential for programmers from this [StackOver
 88. [The Nature of Software Development](https://pragprog.com/book/rjnsd/the-nature-of-software-development) by Ron Jeffries 
 89. [The Clean Coder](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073) by Uncle Bob
 90. [Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure-ebook/dp/B075LRM681) by Robert C. Martin
-
 
 ## What is the single most influential book every programmer should read?
 
